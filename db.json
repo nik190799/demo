@@ -1,14 +1,1 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+{"id":1,"scannerId":"3d27c91235dd7d46","scannerLatitude":42.0194342,"scannerLongitude":24.8550079,"scannerAltitude":274,"peripheralName":"","peripheralAddress":"21:F0:6E:5A:15:82","peripheralRssi":-60,"peripheralUuid":"1eff0600-0109-2002-a350-e74237adb87d","peripheralType":"Unknown","timeStamp":"2022-07-18 16:20:01"}
